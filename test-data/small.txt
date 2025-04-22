@@ -1,0 +1,12 @@
+insert 1 111 2 222 3 333 4 444
+ok
+lookup 1
+111
+lookup 5
+null
+remove 1
+ok
+lookup 1
+null
+lowerbound 0
+222

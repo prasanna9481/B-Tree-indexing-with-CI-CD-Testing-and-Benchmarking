@@ -1,0 +1,222 @@
+insert 14 63 21 33 28 3 35 96 42 66 49 36 56 6 63 99 70 69 77 39 84 9 91 102 98 72
+ok
+lowerbound 0
+63
+lowerbound 1
+63
+lowerbound 2
+63
+lowerbound 3
+63
+lowerbound 4
+63
+lowerbound 5
+63
+lowerbound 6
+63
+lowerbound 7
+63
+lowerbound 8
+63
+lowerbound 9
+63
+lowerbound 10
+63
+lowerbound 11
+63
+lowerbound 12
+63
+lowerbound 13
+63
+lowerbound 14
+63
+lowerbound 15
+33
+lowerbound 16
+33
+lowerbound 17
+33
+lowerbound 18
+33
+lowerbound 19
+33
+lowerbound 20
+33
+lowerbound 21
+33
+lowerbound 22
+3
+lowerbound 23
+3
+lowerbound 24
+3
+lowerbound 25
+3
+lowerbound 26
+3
+lowerbound 27
+3
+lowerbound 28
+3
+lowerbound 29
+96
+lowerbound 30
+96
+lowerbound 31
+96
+lowerbound 32
+96
+lowerbound 33
+96
+lowerbound 34
+96
+lowerbound 35
+96
+lowerbound 36
+66
+lowerbound 37
+66
+lowerbound 38
+66
+lowerbound 39
+66
+lowerbound 40
+66
+lowerbound 41
+66
+lowerbound 42
+66
+lowerbound 43
+36
+lowerbound 44
+36
+lowerbound 45
+36
+lowerbound 46
+36
+lowerbound 47
+36
+lowerbound 48
+36
+lowerbound 49
+36
+lowerbound 50
+6
+lowerbound 51
+6
+lowerbound 52
+6
+lowerbound 53
+6
+lowerbound 54
+6
+lowerbound 55
+6
+lowerbound 56
+6
+lowerbound 57
+99
+lowerbound 58
+99
+lowerbound 59
+99
+lowerbound 60
+99
+lowerbound 61
+99
+lowerbound 62
+99
+lowerbound 63
+99
+lowerbound 64
+69
+lowerbound 65
+69
+lowerbound 66
+69
+lowerbound 67
+69
+lowerbound 68
+69
+lowerbound 69
+69
+lowerbound 70
+69
+lowerbound 71
+39
+lowerbound 72
+39
+lowerbound 73
+39
+lowerbound 74
+39
+lowerbound 75
+39
+lowerbound 76
+39
+lowerbound 77
+39
+lowerbound 78
+9
+lowerbound 79
+9
+lowerbound 80
+9
+lowerbound 81
+9
+lowerbound 82
+9
+lowerbound 83
+9
+lowerbound 84
+9
+lowerbound 85
+102
+lowerbound 86
+102
+lowerbound 87
+102
+lowerbound 88
+102
+lowerbound 89
+102
+lowerbound 90
+102
+lowerbound 91
+102
+lowerbound 92
+72
+lowerbound 93
+72
+lowerbound 94
+72
+lowerbound 95
+72
+lowerbound 96
+72
+lowerbound 97
+72
+lowerbound 98
+72
+lowerbound 99
+null
+lowerbound 100
+null
+lowerbound 101
+null
+lowerbound 102
+null
+lowerbound 103
+null
+lowerbound 104
+null
+lowerbound 105
+null
+lowerbound 106
+null
+lowerbound 107
+null
+lowerbound 108
+null
+lowerbound 109
+null

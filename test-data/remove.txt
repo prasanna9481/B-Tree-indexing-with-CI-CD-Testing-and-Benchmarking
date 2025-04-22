@@ -1,0 +1,204 @@
+insert 0 0 1 66 2 9 3 75 4 18 5 84 6 27 7 93 8 36 9 102 10 45 11 111 12 54 13 120 14 63 15 6 16 72 17 15 18 81 19 24 20 90 21 33 22 99 23 42 24 108 25 51 26 117 27 60 28 3 29 69 30 12 31 78 32 21 33 87 34 30 35 96 36 39 37 105 38 48 39 114 40 57 41 0 42 66 43 9 44 75 45 18 46 84 47 27 48 93 49 36 50 102 51 45 52 111 53 54 54 120 55 63 56 6 57 72 58 15 59 81 60 24 61 90 62 33 63 99 64 42 65 108 66 51 67 117 68 60 69 3 70 69 71 12 72 78 73 21 74 87 75 30 76 96 77 39 78 105 79 48 80 114 81 57 82 0 83 66 84 9 85 75 86 18 87 84 88 27 89 93 90 36 91 102 92 45 93 111 94 54 95 120 96 63 97 6 98 72 99 15
+ok
+remove 0 13 26 39 52 65 78 91
+ok
+lookup 0
+null
+lookup 1
+66
+lookup 2
+9
+lookup 3
+75
+lookup 4
+18
+lookup 5
+84
+lookup 6
+27
+lookup 7
+93
+lookup 8
+36
+lookup 9
+102
+lookup 10
+45
+lookup 11
+111
+lookup 12
+54
+lookup 13
+null
+lookup 14
+63
+lookup 15
+6
+lookup 16
+72
+lookup 17
+15
+lookup 18
+81
+lookup 19
+24
+lookup 20
+90
+lookup 21
+33
+lookup 22
+99
+lookup 23
+42
+lookup 24
+108
+lookup 25
+51
+lookup 26
+null
+lookup 27
+60
+lookup 28
+3
+lookup 29
+69
+lookup 30
+12
+lookup 31
+78
+lookup 32
+21
+lookup 33
+87
+lookup 34
+30
+lookup 35
+96
+lookup 36
+39
+lookup 37
+105
+lookup 38
+48
+lookup 39
+null
+lookup 40
+57
+lookup 41
+0
+lookup 42
+66
+lookup 43
+9
+lookup 44
+75
+lookup 45
+18
+lookup 46
+84
+lookup 47
+27
+lookup 48
+93
+lookup 49
+36
+lookup 50
+102
+lookup 51
+45
+lookup 52
+null
+lookup 53
+54
+lookup 54
+120
+lookup 55
+63
+lookup 56
+6
+lookup 57
+72
+lookup 58
+15
+lookup 59
+81
+lookup 60
+24
+lookup 61
+90
+lookup 62
+33
+lookup 63
+99
+lookup 64
+42
+lookup 65
+null
+lookup 66
+51
+lookup 67
+117
+lookup 68
+60
+lookup 69
+3
+lookup 70
+69
+lookup 71
+12
+lookup 72
+78
+lookup 73
+21
+lookup 74
+87
+lookup 75
+30
+lookup 76
+96
+lookup 77
+39
+lookup 78
+null
+lookup 79
+48
+lookup 80
+114
+lookup 81
+57
+lookup 82
+0
+lookup 83
+66
+lookup 84
+9
+lookup 85
+75
+lookup 86
+18
+lookup 87
+84
+lookup 88
+27
+lookup 89
+93
+lookup 90
+36
+lookup 91
+null
+lookup 92
+45
+lookup 93
+111
+lookup 94
+54
+lookup 95
+120
+lookup 96
+63
+lookup 97
+6
+lookup 98
+72
+lookup 99
+15
