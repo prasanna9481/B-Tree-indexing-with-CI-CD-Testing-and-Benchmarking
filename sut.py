@@ -1,10 +1,8 @@
-#!/usr/bin/env python3
+
 import sys
 from bisect import bisect_left, bisect_right
 
-# ──────────────────────────────────────────────────────────────────────────────
-# 简单 B⁺-Tree 实现 (integer keys and values)
-# ──────────────────────────────────────────────────────────────────────────────
+
 
 BPLUS_ORDER = 4   # Max children per internal node.  Leaves hold up to ORDER-1 kv pairs.
 
@@ -151,11 +149,6 @@ class BPlusTree:
         # underflow handling is omitted for brevity;
         # leaves may temporarily go underfull but correctness still holds
         # if you need strict B⁺-tree invariants, implement merge/borrow here.
-
-# ──────────────────────────────────────────────────────────────────────────────
-# Command‐line interface (same as before)
-# ──────────────────────────────────────────────────────────────────────────────
-
 tree = BPlusTree()
 
 def handle_command(cmd):
