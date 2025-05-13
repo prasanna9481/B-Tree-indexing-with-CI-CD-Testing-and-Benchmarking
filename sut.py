@@ -146,9 +146,7 @@ class BPlusTree:
     def remove(self, key):
         leaf = self._find_leaf(key)
         leaf.delete(key)
-        # underflow handling is omitted for brevity;
-        # leaves may temporarily go underfull but correctness still holds
-        # if you need strict B⁺-tree invariants, implement merge/borrow here.
+
 tree = BPlusTree()
 
 def handle_command(cmd):
