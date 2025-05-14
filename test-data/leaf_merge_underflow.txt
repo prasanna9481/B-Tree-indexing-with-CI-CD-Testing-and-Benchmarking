@@ -1,0 +1,18 @@
+insert 10 100 20 200 30 300 40 400 50 500 60 600 70 700
+ok
+remove 10
+ok
+remove 20
+ok
+remove 30
+ok
+lookup 10
+null
+lookup 20
+null
+lookup 30
+null
+lookup 40
+400
+lookup 50
+500
