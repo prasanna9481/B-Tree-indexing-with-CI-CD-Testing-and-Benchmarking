@@ -1,5 +1,5 @@
 # tree-template
-Python implementation is in place. Cpp implementation is done too.(compiler configuration is still in progress)
+Python implementation is in place. Cpp implementation is done too.
 Template for the tree implementation with all required tests.
 
 # Local Testing
